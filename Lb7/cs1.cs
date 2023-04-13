@@ -47,7 +47,5 @@ namespace Lb7
         }
     }
 
-    internal class cs1
-    {
-    }
+  
 }
